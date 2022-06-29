@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MytekMobile
+Bundle-SymbolicName: Appiumcourse
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: MytekMobile.jar,
+ abendhaya/.m2/repository/org/seleniumhq/selenium/selenium-api/2.47.1/selenium-api-2.47.1.jar
+Automatic-Module-Name: MytekMobile
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: AppiumApp
